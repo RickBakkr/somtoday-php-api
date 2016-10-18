@@ -1,9 +1,11 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Bart Wesselink
- * Date: 18-10-2016
- * Time: 18:59
+ * @copyright 2016 SOMtoday API 
+ *
+ * @package somtoday-php-api
+ * @author Rick Bakker <rickbakkr@gmail.com>
+ * @author Bart Wesselink <bartwesselink99@gmail.com>
+ * @license MIT
  */
 
 namespace TeamDeployment\SOMtodayPHPApi\SOMtodayPHPApi\Test;
