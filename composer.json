@@ -1,0 +1,27 @@
+{
+  "name": "team-deployment/somtoday-php-api",
+  "description": "A PHP-wrapper for the SOMtoday API used by its mobile apps.",
+  "license": "MIT",
+  "keywords": ["somtoday"],
+  "authors": [
+    {
+      "name": "Rick Bakker",
+      "email": "rickbakkr@gmail.com"
+    },
+    {
+      "name": "Bart Wesselink",
+      "email": "bartwesselink99@gmail.com"
+    }
+  ],
+  "require": {
+    "curl/curl": "^1.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "TeamDeployment\\SOMtodayPHPApi\\": "src"
+    }
+  }
+}
