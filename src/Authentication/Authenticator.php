@@ -1,6 +1,6 @@
 <?php
-
 namespace TeamDeployment\SOMtodayPHPApi\Authentication;
+
 use TeamDeployment\SOMtodayPHPApi\Util\Brin;
 
 /**
