@@ -1,2 +1,2 @@
 # somtoday-php-api
-PHP (composer-complient) class for the mobile API of SomToday
+PHP (composer-compliant) class for the mobile API of SomToday
