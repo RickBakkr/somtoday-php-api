@@ -6,7 +6,7 @@
  * Time: 18:55
  */
 
-namespace TeamDeployment\SomtodayPHPApi\Model;
+namespace TeamDeployment\SOMtodayPHPApi\Model;
 
 
 class Homework
