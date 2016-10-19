@@ -9,5 +9,5 @@ namespace TeamDeployment\SOMtodayPHPApi\Endpoint;
  */
 class Homework
 {
-
+	
 }
